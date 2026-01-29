@@ -1,6 +1,6 @@
 # Licencia
 
-## Creative Commons Attribution 4.0 International (CC BY 4.0)
+## Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 **Copyright © 2024 Esraderey & Escribano Silente**
 
@@ -8,9 +8,9 @@
 
 ### Usted es libre de:
 
-- **Compartir** — copiar y redistribuir el material en cualquier medio o formato para cualquier propósito, incluso comercialmente.
+- **Compartir** — copiar y redistribuir el material en cualquier medio o formato.
 
-- **Adaptar** — remezclar, transformar y construir a partir del material para cualquier propósito, incluso comercialmente.
+- **Adaptar** — remezclar, transformar y construir a partir del material.
 
 El licenciante no puede revocar estas libertades en tanto usted siga los términos de la licencia.
 
@@ -18,7 +18,21 @@ El licenciante no puede revocar estas libertades en tanto usted siga los términ
 
 ### Bajo los siguientes términos:
 
-- **Atribución** — Usted debe dar crédito de manera adecuada, brindar un enlace a la licencia, e indicar si se han realizado cambios. Puede hacerlo en cualquier forma razonable, pero no de forma tal que sugiera que usted o su uso tienen el apoyo de los licenciantes.
+- **Atribución** — Usted debe dar crédito de manera adecuada a los autores originales (Esraderey y Escribano Silente), brindar un enlace a la licencia, e indicar si se han realizado cambios. Puede hacerlo en cualquier forma razonable, pero no de forma tal que sugiera que usted o su uso tienen el apoyo de los licenciantes.
+
+- **NoComercial** — Usted no puede hacer uso del material con propósitos comerciales. Esto incluye, pero no se limita a:
+  - Venta del software o derivados
+  - Uso en productos o servicios comerciales
+  - Distribución con fines de lucro
+  - Inclusión en software propietario comercial
+
+---
+
+### No está permitido:
+
+- Usar este software o derivados para fines comerciales
+- Sublicenciar el software bajo términos que permitan uso comercial
+- Eliminar o alterar los avisos de atribución
 
 ---
 
@@ -37,8 +51,15 @@ Al usar, modificar o distribuir este software, debe incluir la siguiente atribuc
 ```
 Auto Requirements Installer Pro
 Autores originales: Esraderey & Escribano Silente
-Licencia: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+Licencia: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
+Uso comercial NO permitido sin autorización expresa de los autores.
 ```
+
+---
+
+### Uso Comercial
+
+Si desea utilizar este software con fines comerciales, debe obtener una licencia comercial separada contactando a los autores.
 
 ---
 
@@ -46,13 +67,13 @@ Licencia: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
 El texto legal completo de esta licencia está disponible en:
 
-**https://creativecommons.org/licenses/by/4.0/legalcode**
+**https://creativecommons.org/licenses/by-nc/4.0/legalcode**
 
 ---
 
 ### Contacto
 
-Para consultas sobre el uso de este software:
+Para consultas sobre el uso de este software o licencias comerciales:
 
 - **Autor Principal:** Esraderey
 - **Coautor:** Escribano Silente
