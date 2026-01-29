@@ -176,28 +176,22 @@ Las contribuciones son bienvenidas. Por favor, abre un issue o pull request en e
 
 ## Licencia
 
-```
-Creative Commons Attribution 4.0 International (CC BY 4.0)
+### Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-Copyright (c) 2024 Esraderey & Escribano Silente
+**Copyright © 2024 Esraderey & Escribano Silente**
 
-Se permite:
-- Compartir: copiar y redistribuir el material en cualquier medio o formato
-- Adaptar: remezclar, transformar y construir sobre el material para cualquier 
-  propósito, incluso comercialmente
+#### Se permite:
+- **Compartir:** copiar y redistribuir el material en cualquier medio o formato
+- **Adaptar:** remezclar, transformar y construir a partir del material
 
-Bajo los siguientes términos:
-- Atribución: Debe dar crédito apropiado a los autores originales 
-  (Esraderey y Escribano Silente), proporcionar un enlace a la licencia e 
-  indicar si se realizaron cambios. Puede hacerlo de cualquier manera razonable, 
-  pero no de forma que sugiera que los licenciantes respaldan su uso.
+#### Bajo los siguientes términos:
+- **Atribución:** Debe dar crédito apropiado a los autores originales (Esraderey y Escribano Silente), proporcionar un enlace a la licencia e indicar si se realizaron cambios.
+- **NoComercial:** No puede utilizar el material con fines comerciales.
 
-Sin restricciones adicionales: No puede aplicar términos legales o medidas 
-tecnológicas que restrinjan legalmente a otros de hacer cualquier cosa que 
-la licencia permita.
+#### ⚠️ Uso comercial NO permitido
+El uso comercial de este software requiere autorización expresa de los autores.
 
-https://creativecommons.org/licenses/by/4.0/
-```
+**Licencia completa:** https://creativecommons.org/licenses/by-nc/4.0/
 
 ---
 
@@ -219,3 +213,7 @@ https://creativecommons.org/licenses/by/4.0/
 
 **Autor:** Esraderey  
 **Coautor:** Escribano Silente
+
+---
+
+> ⚠️ **Aviso Legal:** Este software se proporciona "tal cual", sin garantías de ningún tipo. Los autores no se hacen responsables de daños derivados de su uso.
