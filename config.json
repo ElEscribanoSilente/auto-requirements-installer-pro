@@ -1,0 +1,59 @@
+{
+    "app": {
+        "name": "Auto Requirements Installer Pro",
+        "version": "2.0.0",
+        "language": "es"
+    },
+    "ui": {
+        "theme": "dark",
+        "window_width": 1200,
+        "window_height": 800,
+        "font_family": "Consolas",
+        "font_size": 10
+    },
+    "scanner": {
+        "exclude_patterns": [
+            "__pycache__",
+            ".git",
+            ".hg",
+            ".svn",
+            "node_modules",
+            "venv",
+            ".venv",
+            "env",
+            ".env",
+            ".tox",
+            ".nox",
+            "build",
+            "dist",
+            "*.egg-info",
+            ".eggs"
+        ],
+        "file_extensions": [".py"],
+        "max_depth": null
+    },
+    "cache": {
+        "enabled": true,
+        "expiry_seconds": 86400,
+        "max_entries": 1000
+    },
+    "pypi": {
+        "timeout_seconds": 5,
+        "user_agent": "RequirementsInstaller/2.0",
+        "verify_ssl": true
+    },
+    "security": {
+        "check_vulnerabilities": true,
+        "safety_db_url": "https://raw.githubusercontent.com/pyupio/safety-db/master/data/insecure_full.json"
+    },
+    "history": {
+        "enabled": true,
+        "max_operations": 1000,
+        "max_scans": 100
+    },
+    "export": {
+        "default_format": "requirements.txt",
+        "include_versions": true,
+        "include_comments": true
+    }
+}

@@ -1,0 +1,30 @@
+# Auto Requirements Installer Pro v2.0.0
+# Dependencias del proyecto
+# ========================================
+
+# Requerido - Parsing de archivos TOML
+toml>=0.10.2
+
+# Opcional - Verificación de versiones para vulnerabilidades
+packaging>=21.0
+
+# ========================================
+# Nota: Las siguientes dependencias son parte
+# de la biblioteca estándar de Python 3.8+
+# y NO requieren instalación:
+#
+# - tkinter (GUI)
+# - ast (parsing)
+# - sqlite3 (historial)
+# - json (configuración)
+# - pathlib (rutas)
+# - threading (concurrencia)
+# - subprocess (ejecución pip)
+# - urllib (consultas PyPI)
+# - venv (entornos virtuales)
+# - dataclasses (estructuras)
+# - typing (anotaciones)
+# - configparser (configuración)
+# - hashlib (hashing)
+# - concurrent.futures (paralelismo)
+# ========================================
